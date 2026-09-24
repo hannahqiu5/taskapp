@@ -43,4 +43,5 @@ public class Task {
 
     @Column(name = "updated", nullable = false)
     private LocalDateTime updated;
+
 }
